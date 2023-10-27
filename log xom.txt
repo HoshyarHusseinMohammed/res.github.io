@@ -1,0 +1,52 @@
+<html>
+
+<head>
+    <title>login | شـوێـنـی صـمـد</title>
+    <link rel="stylesheet" href="st.css">
+    <link rel="shortcut icon" href="car.jpg" type="image/x-icon">
+</head>
+    <body class="back">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="home.html">my Nav</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+          
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                  <a class="nav-link" href="home.html">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                  <a  class="nav-link" href="log.html" blank >log In</a>
+                </li>
+              </ul>
+
+
+
+</div>
+              
+            </div>
+          </nav>
+<div class="row">
+    <div class="col-3"></div>
+    <div class="col-6">
+        <div class="row"><div class="col-12">
+            <h1>Login</h1>
+        </div>
+        <div class="col-6">
+            <label for="">Username</label>
+            <input type="text" placeholder="Username" class="form-control" >
+        </div>
+        <div class="col-6">
+            <label for="">Password</label>
+            <input type="password" placeholder="Password" class="form-control" >
+        </div>
+        <div class="col-12">
+            <button class="btn btn  mybtn"> login </button>
+        </div>
+    </div>
+    </div>
+</div>
+    </body>
+</html>
